@@ -2,7 +2,7 @@
 ## 📫 My Blog
 [![Blog](https://img.shields.io/badge/Blog-kanado2000.tistory.com-orange?style=flat-square&logo=blogger&logoColor=white)](https://kanado2000.tistory.com/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-black?style=flat-square&logo=notion&logoColor=white)](https://sedate-interest-f7d.notion.site/Back-End-Developer-692d095141af46f4b1a78661bb3bdc23)
+[![Notion](https://img.shields.io/badge/Portfolio-Portfolio-black?style=flat-square&logo=notion&logoColor=white)](https://sedate-interest-f7d.notion.site/Back-End-Developer-692d095141af46f4b1a78661bb3bdc23)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YunBeen-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9C%A4%EB%B9%88-%EC%9D%B4-23a283324/)
 
