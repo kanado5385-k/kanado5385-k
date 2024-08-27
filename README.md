@@ -11,7 +11,7 @@
 - 2022 HUFS “우리 함께, 코딩해봄” 튜터 활동 
 - 2023 국립중앙과학관 GBIF 데이터 활용 해커톤 경진대회 <span style="background-color: #FFFF00">**우수상(2등)**</span>    
 - 2024 HUFSummer 해커톤 <span style="background-color: #FFFF00">**최우수상**(AI교육원장상)</span>   
-- 2024년 대학-지역사회 연계 K-HTML 해커톤 <span style="background-color: #FFFF00">**우수상**</span>
+- 2024 대학-지역사회 연계 K-HTML 해커톤 <span style="background-color: #FFFF00">**우수상**</span>
 - 2024 여름방학 HUFStudy <span style="background-color: #FFFF00">**최우수상**</span>
 
 ## 🧑🏻‍💻 How I Work ?
