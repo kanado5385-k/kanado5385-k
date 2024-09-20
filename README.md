@@ -13,7 +13,7 @@
 - 2024 HUFSummer 해커톤 <span style="background-color: #FFFF00">**최우수상**(AI교육원장상)</span>   
 - 2024 대학-지역사회 연계 K-HTML 해커톤 <span style="background-color: #FFFF00">**우수상**</span>
 - 2024 여름방학 HUFStudy <span style="background-color: #FFFF00">**최우수상**</span>
-- 2024 GDSC(Google Developer Student Clubs) 6기 멤버로 활동 (진행중)
+- 2024 GDSC(Google Developer Student Clubs) 6기 멤버로 활동
 
 ## 🧑🏻‍💻 How I Work ?
 - 팀 프로젝트에서 가장 중요한 것은 효과적인 커뮤니케이션입니다. 팀원 간의 원활한 소통은 프로젝트의 성공을 위한 가장 중요한 것이라고 생각합니다.
