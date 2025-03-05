@@ -12,7 +12,7 @@
 - 2024 대학-지역사회 연계 K-HTML 해커톤 <span style="background-color: #FFFF00">**우수상**</span>
 - 2024 여름방학 HUFStudy <span style="background-color: #FFFF00">**최우수상**</span>
 - 2024 한국외대 정보통신공학과 AdvICE 웹서비스 개발 공로상
-- 카카오테크 부트캠프 2기 풀스택 과정 수료
+- 카카오테크 부트캠프 2기 풀스택 개발 수료
 
 ## 💻 Tech Stack
 
