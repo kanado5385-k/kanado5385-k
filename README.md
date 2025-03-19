@@ -1,4 +1,5 @@
 # 안녕하세요. 러시아어까지 잘하는 주니어 개발자 이윤빈입니다👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanado5385-k&show_icons=true&theme=dracula)
 ## 📫 My Blog
 [![Blog](https://img.shields.io/badge/Blog-kanado2000.tistory.com-orange?style=flat-square&logo=blogger&logoColor=white)](https://kanado2000.tistory.com/)
 
@@ -25,6 +26,8 @@
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanado5385-k&layout=compact&theme=dracula)
 
 ### 🛠️ Frameworks
 <p align="left">
